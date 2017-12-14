@@ -40,7 +40,7 @@
 4. 代码中是否有bug<br/>
     无
 5. 数据类型 <br/>
-    String 、number 、function  、 boolean’
+    String 、number 、function  、 boolean’ <br/>
 6.项目是如何划分模块、划分函数，划分的好吗？ <br/>
     项目的函数从基本的内容操作到结构的操作，项目中先先写了 combined-stream 的创建 、 连接 、暂停状态与流动状态的转换 、错误异常的处理 最      后写了有关combined-stream内存数据的处理。
 7.代码的可读性如何？结构清晰吗？ <br/>
