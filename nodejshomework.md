@@ -27,21 +27,23 @@
      项目用到的相关模块
 ### 二.运行截图
   <img src="img/img.png">
+  
+  <br/>
 ### 三.问题清单
 1. 项目类型？<br/>
-  第三方库
+     第三方库
 2. 项目入口文件<br/>
-Combined-stream.js文件
+    Combined-stream.js文件
 3. 项目的依赖项有哪些，各个依赖项都做神魔的？有什么功能？<br/>
-  Util 用于继承其他模块
-  Stream combined-stream 继承了stream‘的特性
+    Util 用于继承其他模块
+    Stream combined-stream 继承了stream‘的特性
 4. 代码中是否有bug<br/>
- 无
+    无
 5. 数据类型 <br/>
- String 、number 、function  、 boolean’
+    String 、number 、function  、 boolean’
 6.项目是如何划分模块、划分函数，划分的好吗？<br/>
-项目的函数从基本的内容操作到结构的操作，项目中先先写了 combined-stream 的创建 、 连接 、暂停状态与流动状态的转换 、错误异常的处理 最后写了有关combined-stream内存数据的处理。
+    项目的函数从基本的内容操作到结构的操作，项目中先先写了 combined-stream 的创建 、 连接 、暂停状态与流动状态的转换 、错误异常的处理 最      后写了有关combined-stream内存数据的处理。
 7.代码的可读性如何？结构清晰吗？<br/>
-代码的可读性很高，结构清晰。缩进合理，语句的末尾以 ‘ ；’ 结束
+    代码的可读性很高，结构清晰。缩进合理，语句的末尾以 ‘ ；’ 结束
 .
 
